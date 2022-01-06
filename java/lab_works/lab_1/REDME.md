@@ -1,3 +1,14 @@
+Lab 1: Basic OOP concepts.
+Write a program to demonstrate all three types of constructor in java.
+Write a program to implement stack using array.
+Write a program to implement uses of abstract class.
+Write a program to achieve multiple inheritance in java.
+Write a program to find sum and difference of two numbers using command line arguments.
+Write a program to demonstrate use of this, super and final keywords.
+Write a program to demonstrate the use of default method in the interface.
+Write a prgoram to demonstrate the use of static method and static variable.
+
+
 STACK
 
 The stack is a linear data structure that is used to store the collection of objects. It is based on Last-In-First-Out (LIFO). Java collection framework provides many interfaces and classes to store the collection of objects. One of them is the Stack class that provides different operations such as push, pop, search, etc.
